@@ -21,5 +21,10 @@ namespace GitHub1
         {
             MessageBox.Show("每次都同步不成功！");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("第2个按钮");
+        }
     }
 }
