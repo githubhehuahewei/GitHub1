@@ -16,5 +16,10 @@ namespace GitHub1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("每次都同步不成功！");
+        }
     }
 }
