@@ -28,5 +28,10 @@ namespace GitHub1
             string s = "hehua";
             string ss;
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("第3个按钮");
+        }
     }
 }
