@@ -26,6 +26,7 @@ namespace GitHub1
         {
             MessageBox.Show("第2个按钮");
             string s = "hehua";
+            string ss;
         }
     }
 }
