@@ -26,6 +26,7 @@ namespace GitHub1
         {
             MessageBox.Show("第2个按钮");
 <<<<<<< HEAD
+<<<<<<< HEAD
             string s = "hehua";
             string ss;
         }
@@ -33,6 +34,8 @@ namespace GitHub1
         private void button3_Click(object sender, EventArgs e)
         {
             MessageBox.Show("第3个按钮");
+=======
+>>>>>>> parent of 941e682... 又添加了一个按钮
 =======
 >>>>>>> parent of 941e682... 又添加了一个按钮
         }
